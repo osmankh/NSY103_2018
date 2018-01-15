@@ -36,6 +36,7 @@ Principales Commandes de Manipulation de Fichiers et Réper-toires
 ```
 
 > l'option -r signifie récursive
+>
 > man rm pour voir tout les options du rm
 
 ```bash
