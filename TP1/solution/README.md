@@ -29,14 +29,13 @@ Principales Commandes de Manipulation de Fichiers et Réper-toires
     $ rmdir tmp
 ```
  
-ou
+> ou
 
 ```bash
     $ rm -r tmp
 ```
 
-l'option -r signifie récursive
-
+> l'option -r signifie récursive
 > man rm pour voir tout les options du rm
 
 ```bash
